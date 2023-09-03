@@ -1,0 +1,14 @@
+.header {
+    background-color: black;
+    max-width: 1230px;
+    margin: 0 auto;
+}
+
+.header_ttl {
+    display: inline-block;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px 100px;
+    text-decoration: none;
+}
